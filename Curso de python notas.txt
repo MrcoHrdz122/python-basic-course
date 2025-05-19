@@ -1,0 +1,5 @@
+Curso de python notas
+
+te dice el tipo de dato
+type()
+constructor es una funcion que nos permite crear una lista
